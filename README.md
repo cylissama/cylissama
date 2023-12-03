@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<!--
-**cylissama/cylissama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- Studying computer science
+- I have a passion for developing interesting programs and apps
+
+<!--
 Here are some ideas to get you started:
+**cylissama/cylissama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
