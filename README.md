@@ -2,6 +2,7 @@
 
 - Studying computer science at WKU
 - I have a passion for developing interesting programs and apps
+- Working against the *La Li Lu Le Lo*
 - ☕️
 
 ## contact me!
