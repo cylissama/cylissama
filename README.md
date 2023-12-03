@@ -1,19 +1,12 @@
-### Hi there 👋
+### hi, im Cy
 
-
-- Studying computer science
+- Studying computer science at WKU
 - I have a passion for developing interesting programs and apps
+- ☕️
 
-<!--
-Here are some ideas to get you started:
-**cylissama/cylissama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## contact me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Social Channel-->
+<a href="https://www.linkedin.com/in/cy-dixon/"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcy-dixon%2F&logo=linkedin&label=Linkedin" alt="Linkedin"></a>
+<a href="https://twitter.com/cy_dixon"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcy_dixon&logo=twitter&label=Twitter" alt="Dev to"></a>
+
