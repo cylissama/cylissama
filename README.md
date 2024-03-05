@@ -3,6 +3,7 @@
 - Studying computer science at WKU
 - I have a passion for developing interesting programs and apps
 - ☕️
+- AI is evil.
 
 ## contact me!
 
