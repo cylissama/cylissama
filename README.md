@@ -2,7 +2,6 @@
 
 - Studying computer science at WKU
 - ☕️
-- AI is evil.
 
 ## contact me!
 
